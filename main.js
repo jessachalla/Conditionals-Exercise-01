@@ -1,3 +1,5 @@
+alert("This exercie takes place in the console.")
+
 //First part of the exersice
 // let actualTemp = 90;
 // let desiredTemp = 80;
